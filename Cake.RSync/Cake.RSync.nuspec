@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Cake.RSync</id>
+    <version>1.0.0</version>
+    <title>Cake.RSync</title>
+    <authors>csnewman</authors>
+    <owners>csnewman</owners>
+    <licenseUrl>https://raw.githubusercontent.com/csnewman/Cake.RSync/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/csnewman/Cake.RSync</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RSync support for Cake</description>
+    <releaseNotes>First Release.</releaseNotes>
+    <copyright>Copyright 2018 csnewman</copyright>
+    <tags>Cake RSync</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Cake.RSync.dll" target="lib\net46\Cake.RSync.dll" />
+    <file src="bin\Release\Cake.RSync.xml" target="lib\net46\Cake.RSync.xml" />
+  </files>
+</package>
